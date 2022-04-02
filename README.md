@@ -82,3 +82,6 @@ RMSE:  11884.0826
 
 
 Kaggle competition Link: https://www.kaggle.com/competitions/ml-lab-ii-c33
+
+<img width="998" alt="features" src="https://user-images.githubusercontent.com/90130378/161398300-e4954bd9-d0c9-4706-acb5-8c6d26649206.png">
+
