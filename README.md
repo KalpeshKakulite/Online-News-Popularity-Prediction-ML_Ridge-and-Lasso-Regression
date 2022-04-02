@@ -79,3 +79,6 @@ r2:  0.0214
 MAE:  3088.8122
 MSE:  141231418.9238
 RMSE:  11884.0826
+
+
+Kaggle competition Link: https://www.kaggle.com/competitions/ml-lab-ii-c33
