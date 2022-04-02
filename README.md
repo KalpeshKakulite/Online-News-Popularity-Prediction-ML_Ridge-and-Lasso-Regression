@@ -16,7 +16,62 @@ There are multiple areas of applications for online news popularity prediction. 
 7. Pricipal Component Analysis (PCA)
 8. Model Building: 
  a)  Baseline Model-Logistic Regression
- b) Model Building using Ridge
- c) Model Building using Lasso////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ b) Model Building using  Ridge Regression
+ c) Model Building using Lasso
 9. Making Predictions
 10. Model Evaluation
+
+**Libraries Used:**
+1. NumPy as np
+2. Pandas as pd
+3. Matplotlib.pyplot as plt
+4. Seaborn as sns
+5.  Ridge and Lasso
+6. from sklearn.model_selection import GridSearchCV
+7. GradientBoostingClassifier 
+
+**Model Evaluation:** 
+1. **Logistic Regression:**
+Train metrics
+explained_variance:  0.0219
+r2:  0.0219
+MAE:  3130.6311
+MSE:  147034937.4855
+RMSE:  12125.7964
+
+Test metrics
+explained_variance:  0.0211
+r2:  0.0211
+MAE:  3112.5323
+MSE:  141273235.2537
+RMSE:  11885.8418
+
+2. **** Ridge Regression****
+Train metrics
+explained_variance:  0.0219
+r2:  0.0219
+MAE:  3122.7682
+MSE:  147041530.3931
+RMSE:  12126.0682
+
+Test metrics
+explained_variance:  0.0214
+r2:  0.0214
+MAE:  3104.2359
+MSE:  141230476.1353
+RMSE:  11884.0429
+
+3. **Lasso Regression**
+Train metrics
+explained_variance:  0.021
+r2:  0.021
+MAE:  3108.6651
+MSE:  147172602.7921
+RMSE:  12131.4716
+
+Test metrics
+explained_variance:  0.0214
+r2:  0.0214
+MAE:  3088.8122
+MSE:  141231418.9238
+RMSE:  11884.0826
