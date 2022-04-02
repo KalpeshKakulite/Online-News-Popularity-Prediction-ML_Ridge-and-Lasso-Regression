@@ -4,3 +4,19 @@
 
 **Why news popularity prediction?**
 There are multiple areas of applications for online news popularity prediction. One of these includes gaining better insights into the audience consuming online news content. Consequently, it increases the ability of news organizations to deliver more relevant and appealing content in a proactive manner. Also, the company can allocate resources more wisely to prepare stories over its life cycle. Moreover, prediction of news content is also beneﬁcial for trend forecasting, understanding the collective human behavior, advertisers to propose more proﬁtable monetization techniques, and readers to ﬁlter huge amounts of information quickly and efﬁciently.
+
+**Steps Involved:**
+
+1. Importing Libraries
+2. Loading and Analysing the DATA
+3. Data Cleaning & Manipulation
+4. Handling Outliers and Null Values
+5. Exploratory Data Analysis (EDA): Univariate and Bivariate Analysis 
+6. Splitting the Data into Training and Testing Sets
+7. Pricipal Component Analysis (PCA)
+8. Model Building: 
+ a)  Baseline Model-Logistic Regression
+ b) Model Building using Ridge
+ c) Model Building using Lasso////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+9. Making Predictions
+10. Model Evaluation
