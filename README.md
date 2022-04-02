@@ -27,7 +27,7 @@ There are multiple areas of applications for online news popularity prediction. 
 2. Pandas as pd
 3. Matplotlib.pyplot as plt
 4. Seaborn as sns
-5.  Ridge and Lasso
+5. Ridge and Lasso
 6. from sklearn.model_selection import GridSearchCV
 7. GradientBoostingClassifier 
 
