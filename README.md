@@ -1,4 +1,5 @@
-# Online-News-Popularity-Prediction-ML_Ridge-and-Lasso
+# Online-News-Popularity-Prediction-ML_Ridge-and-Lasso Regression
+
 ****Problem Description******
 **Importance of online news****   The consumption of online news is expediting day by day due to the extensive adoption of smartphones and the rise of social networks. Online news content includes various key properties like it is easily produced, it is small in size, its lifespan is short and the cost is low. Such qualities make news content more effective to be consumed on social sharing platforms. More interestingly, such content can capture the eye of a signiﬁcant amount of internet users within a brief period of time. As a result, the main target on the analysis of online news content, like predicting the recognition of story articles and demonstrating their decay of interest over time, has significantly increased since it has so many practical meanings.  
 
@@ -32,14 +33,14 @@ There are multiple areas of applications for online news popularity prediction. 
 
 **Model Evaluation:** 
 1. **Logistic Regression:**
-Train metrics
+**Train metrics**
 explained_variance:  0.0219
 r2:  0.0219
 MAE:  3130.6311
 MSE:  147034937.4855
 RMSE:  12125.7964
 
-Test metrics
+**Test metrics**
 explained_variance:  0.0211
 r2:  0.0211
 MAE:  3112.5323
@@ -47,14 +48,14 @@ MSE:  141273235.2537
 RMSE:  11885.8418
 
 2. **** Ridge Regression****
-Train metrics
+**Train metrics**
 explained_variance:  0.0219
 r2:  0.0219
 MAE:  3122.7682
 MSE:  147041530.3931
 RMSE:  12126.0682
 
-Test metrics
+**Test metrics**
 explained_variance:  0.0214
 r2:  0.0214
 MAE:  3104.2359
@@ -62,14 +63,14 @@ MSE:  141230476.1353
 RMSE:  11884.0429
 
 3. **Lasso Regression**
-Train metrics
+**Train metrics**
 explained_variance:  0.021
 r2:  0.021
 MAE:  3108.6651
 MSE:  147172602.7921
 RMSE:  12131.4716
 
-Test metrics
+**Test metrics**
 explained_variance:  0.0214
 r2:  0.0214
 MAE:  3088.8122
