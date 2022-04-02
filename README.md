@@ -33,6 +33,7 @@ There are multiple areas of applications for online news popularity prediction. 
 
 **Model Evaluation:** 
 1. **Logistic Regression:**
+
 **Train metrics**
 explained_variance:  0.0219
 r2:  0.0219
@@ -47,7 +48,8 @@ MAE:  3112.5323
 MSE:  141273235.2537
 RMSE:  11885.8418
 
-2. **** Ridge Regression****
+2.  **Ridge Regression **
+ 
 **Train metrics**
 explained_variance:  0.0219
 r2:  0.0219
@@ -63,6 +65,7 @@ MSE:  141230476.1353
 RMSE:  11884.0429
 
 3. **Lasso Regression**
+
 **Train metrics**
 explained_variance:  0.021
 r2:  0.021
